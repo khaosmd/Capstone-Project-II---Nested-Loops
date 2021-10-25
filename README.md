@@ -1,4 +1,4 @@
-# Capstone-Project-II---Nested-Loops
+# Nested_Loops_Project
 
 Compulsory Task 1 (TriTable.py):
 
